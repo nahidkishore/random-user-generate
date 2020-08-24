@@ -1,0 +1,22 @@
+.user{
+  
+  float: left;
+  border: 2px solid goldenrod;
+  padding: 10px;
+  margin-right: 20px;
+  margin-left: 30px;
+  text-align: center;
+}
+.refresh-btn{
+  background-color: #b700ff;
+  width: 80px;
+  height: 30px;
+  border: 1px solid lightcoral;
+  color: white;
+}
+.heading{
+  text-align: center;
+  
+  color: burlywood;
+  background-color: cadetblue;
+}
